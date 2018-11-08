@@ -1,0 +1,11 @@
+/Users/mrx/Documents/Csharp/Vecka1/Calculator/MyCalculator/MyCalculator/bin/Debug/netcoreapp2.1/MyCalculator.deps.json
+/Users/mrx/Documents/Csharp/Vecka1/Calculator/MyCalculator/MyCalculator/bin/Debug/netcoreapp2.1/MyCalculator.runtimeconfig.json
+/Users/mrx/Documents/Csharp/Vecka1/Calculator/MyCalculator/MyCalculator/bin/Debug/netcoreapp2.1/MyCalculator.runtimeconfig.dev.json
+/Users/mrx/Documents/Csharp/Vecka1/Calculator/MyCalculator/MyCalculator/bin/Debug/netcoreapp2.1/MyCalculator.dll
+/Users/mrx/Documents/Csharp/Vecka1/Calculator/MyCalculator/MyCalculator/bin/Debug/netcoreapp2.1/MyCalculator.pdb
+/Users/mrx/Documents/Csharp/Vecka1/Calculator/MyCalculator/MyCalculator/obj/Debug/netcoreapp2.1/MyCalculator.csprojAssemblyReference.cache
+/Users/mrx/Documents/Csharp/Vecka1/Calculator/MyCalculator/MyCalculator/obj/Debug/netcoreapp2.1/MyCalculator.csproj.CoreCompileInputs.cache
+/Users/mrx/Documents/Csharp/Vecka1/Calculator/MyCalculator/MyCalculator/obj/Debug/netcoreapp2.1/MyCalculator.AssemblyInfoInputs.cache
+/Users/mrx/Documents/Csharp/Vecka1/Calculator/MyCalculator/MyCalculator/obj/Debug/netcoreapp2.1/MyCalculator.AssemblyInfo.cs
+/Users/mrx/Documents/Csharp/Vecka1/Calculator/MyCalculator/MyCalculator/obj/Debug/netcoreapp2.1/MyCalculator.dll
+/Users/mrx/Documents/Csharp/Vecka1/Calculator/MyCalculator/MyCalculator/obj/Debug/netcoreapp2.1/MyCalculator.pdb
